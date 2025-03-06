@@ -9,18 +9,18 @@ Allow job seekers to create profiles, upload resumes, and apply for jobs.
 Offer search and filter options for job listings.
 
 Technologies Used:-
-Backend: Spring Boot (Java), Spring Data JPA
-Frontend: Angular 
-Database: MySQL
-Authentication: OAuth2, JWT (JSON Web Token)\
+Backend: Spring Boot (Java), Spring Data JPA,
+Frontend: Angular, 
+Database: MySQL,
+Authentication: OAuth2, JWT (JSON Web Token),
 Deployment: AWS Cloud
 
 Module Illustration:-
-  Login                           
-  Register
-  View jobs
-  Apply jobs  
-  Cancel job application
+  Login,                           
+  Register,
+  View jobs,
+  Apply jobs,  
+  Cancel job application,
   Edit profile          
 
 
